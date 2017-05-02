@@ -6,16 +6,6 @@
 
 #IncludeRegexTransform: 
 
-/etudiants/npestell/Documents/L3_GL_etudiant/TP_conception/gps/src/Chemin.cpp
-Chemin.hpp
-/etudiants/npestell/Documents/L3_GL_etudiant/TP_conception/gps/src/Chemin.hpp
-limits
--
-queue
--
-sstream
--
-
 /etudiants/npestell/Documents/L3_GL_etudiant/TP_conception/gps/src/Chemin.hpp
 Route.hpp
 /etudiants/npestell/Documents/L3_GL_etudiant/TP_conception/gps/src/Route.hpp
@@ -34,21 +24,7 @@ fstream
 sstream
 -
 
-/etudiants/npestell/Documents/L3_GL_etudiant/TP_conception/gps/src/Route.cpp
-Route.hpp
-/etudiants/npestell/Documents/L3_GL_etudiant/TP_conception/gps/src/Route.hpp
-
 /etudiants/npestell/Documents/L3_GL_etudiant/TP_conception/gps/src/Route.hpp
 string
--
-
-/etudiants/npestell/Documents/L3_GL_etudiant/TP_conception/gps/src/Route_test.cpp
-CppUTest/CommandLineTestRunner.h
--
-Route.hpp
-/etudiants/npestell/Documents/L3_GL_etudiant/TP_conception/gps/src/Route.hpp
-
-/etudiants/npestell/Documents/L3_GL_etudiant/TP_conception/gps/src/tests.cpp
-CppUTest/CommandLineTestRunner.h
 -
 

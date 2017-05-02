@@ -24,19 +24,7 @@ iostream
 vector
 -
 
-/etudiants/npestell/Documents/L3_GL_etudiant/TP_conception/gps/src/Route.cpp
-Route.hpp
-/etudiants/npestell/Documents/L3_GL_etudiant/TP_conception/gps/src/Route.hpp
-
 /etudiants/npestell/Documents/L3_GL_etudiant/TP_conception/gps/src/Route.hpp
 string
--
-
-/etudiants/npestell/Documents/L3_GL_etudiant/TP_conception/gps/src/gps.cpp
-Chemin.hpp
-/etudiants/npestell/Documents/L3_GL_etudiant/TP_conception/gps/src/Chemin.hpp
-exception
--
-fstream
 -
 
